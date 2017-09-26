@@ -1,6 +1,5 @@
 {
   "name": "attrany/galaxy-fds-sdk-php",
-  "version": "v1.0.2",
   "description": "Xiaomi File Data Storage PHP SDK",
   "keywords": [
     "xiaomi",
@@ -14,6 +13,6 @@
   },
   "require": {
     "php": ">=5.3",
-    "symfony/class-loader": "2.8.*"
+    "symfony/class-loader": "2.8.18"
   }
 }
